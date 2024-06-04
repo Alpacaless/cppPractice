@@ -128,7 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="lc_2965.找出缺失和重复的数字.cpp" />
-    <ClCompile Include="源.cpp" />
+    <ClCompile Include="lc_1103. 分糖果 II.cpp" />
+    <ClCompile Include="lc_3067. 在带权树网络中统计可连接服务器对数目T.T.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

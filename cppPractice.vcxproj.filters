@@ -19,13 +19,19 @@
     <Filter Include="NewFilter2">
       <UniqueIdentifier>{e9c0c1e8-e2d1-4d35-a41c-39c543731eed}</UniqueIdentifier>
     </Filter>
+    <Filter Include="NewFilter3">
+      <UniqueIdentifier>{3c1a9938-bc57-49e1-8365-cdc673003ce0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="lc_2965.找出缺失和重复的数字.cpp">
       <Filter>NewFilter1</Filter>
     </ClCompile>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="lc_1103. 分糖果 II.cpp">
       <Filter>NewFilter2</Filter>
+    </ClCompile>
+    <ClCompile Include="lc_3067. 在带权树网络中统计可连接服务器对数目T.T.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
